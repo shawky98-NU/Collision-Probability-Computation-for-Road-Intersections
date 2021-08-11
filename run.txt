@@ -1,0 +1,1 @@
+netconvert --node-files Network_Nodes.nod.xml --edge-files Network_Edges.edg.xml -t Network_Type.type.xml -o Network_Net.net.xml
